@@ -8,3 +8,6 @@ pipeline {
         }
     }
 }
+n = 3
+if (n>2):
+    print(n)
